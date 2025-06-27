@@ -1,0 +1,2 @@
+# SoundClound-RPC
+🎵 SoundCloud Rich Presence affiche sur Discord le titre, l'artiste, la durée et la cover des morceaux écoutés sur SoundCloud en temps réel. Inclut un bouton cliquable personnalisé. Basé sur Node.js, Discord RPC et Chrome DevTools. Par Yooos.
